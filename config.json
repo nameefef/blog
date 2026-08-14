@@ -2,5 +2,6 @@
     "title":"EasonYin's blog",
     "subTitle":"YINSHILIN",
     "avatarUrl":"https://avatars.githubusercontent.com/u/132239472?v=4&size=64",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<style>body,html{cursor:url('/blog/cursors/normal.cur'),auto;}a,button,.btn,.SideNav-item,.title-right a,.avatar{cursor:url('/blog/cursors/link.cur'),pointer;}</style>"
 }
